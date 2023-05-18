@@ -19,7 +19,7 @@ I love cybersecurity, I train my skills and update my knowledge regularly. I lik
 
 I do have a TryHackMe profile:
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/alekira.png" alt="TryHackMe"> 
+<img src="https://tryhackme-badges.s3.amazonaws.com/alekira.png" alt="TryHackMe">
 
 # Skills
 
@@ -29,8 +29,10 @@ Knowledge of cybersecurity assets: frameworks (eg. Metasploit), tools (eg. Nmap,
 
 Knowledge of networking assets: networking basics (what makes a network), ISO/OSI model, Internet protocols, packets, headers.
 
+Knowledge of best and common defence practices: frameworks (eg. NIST), tools (eg. Sysinternals suite), event logs (Windows, SIEM).
+
 First Certificate in English (B2 Level).
 
 # Systems used
 
-Mainly Windows and Linux, but I do have experience in virtualization with other operative systems.
+Mainly Windows and Linux, but I do have experience in virtualization with other operative systems and Docker.
