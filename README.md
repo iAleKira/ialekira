@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 Hello 👋, my name is Alessandro, I also use the name AleKira. I successfully obtained my bachelor's degree in Computer Science in University of Florence.
 I love cybersecurity, I train my skills and update my knowledge regularly. I like watching cybersecurity news and I'm always interested in what's new.
 
-I do have a TryHackMe profile:
+I do have a TryHackMe profile: https://tryhackme.com/p/alekira
+
+<script src="https://tryhackme.com/badge/1023785"></script>
 
 
 # Skills
