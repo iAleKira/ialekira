@@ -30,7 +30,7 @@ Knowledge of cybersecurity assets: frameworks (eg. Metasploit), tools (eg. Nmap,
 
 Knowledge of networking assets: networking basics (what makes a network), ISO/OSI model, Internet protocols, packets, headers.
 
-Knowledge of best and common defence practices: frameworks (eg. NIST), tools (eg. Sysinternals suite), event logs (Windows, SIEM).
+Knowledge of best and common defence practices: frameworks (eg. NIST), tools (eg. Sysinternals suite), event logs (Windows, Splunk), threat intel, intrusion detection and prevention (Snort).
 
 First Certificate in English (B2 Level).
 
