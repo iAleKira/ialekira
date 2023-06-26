@@ -19,7 +19,7 @@ I love cybersecurity, I train my skills and update my knowledge regularly. I lik
 
 I do have a TryHackMe profile: https://tryhackme.com/p/alekira
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/alekira.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/alekira.png" alt="TryHackMe"> 
 
 
 # Skills
