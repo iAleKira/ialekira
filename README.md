@@ -19,7 +19,7 @@ I love cybersecurity, I train my skills and update my knowledge regularly. I lik
 
 I do have a TryHackMe profile: https://tryhackme.com/p/alekira
 
-![alekira](https://github.com/iAleKira/ialekira/assets/89973113/323a20fe-9f2d-403b-8b72-af4ff651005c)
+![alekira](https://github.com/iAleKira/ialekira/assets/89973113/5696e2a3-0c68-4257-84b8-5306607aa941)
 
 
 # Skills
